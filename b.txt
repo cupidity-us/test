@@ -1,6 +1,3 @@
 qwaefetryiasjydsasg
-<<<<<<< HEAD
 sadsfdgfghffdsadf
-=======
 asdfgdfs
->>>>>>> ys-dev
